@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|sudoku.csproj|D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|sudoku.csproj|solutionrelative:formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|sudoku.csproj|D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|sudoku.csproj|solutionrelative:formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|sudoku.csproj|D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|sudoku.csproj|solutionrelative:formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|sudoku.csproj|d:\\ifba2024.01\\tecn\u00F3logo em jogos digitais\\introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|sudoku.csproj|solutionrelative:formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormGame.cs",
+              "DocumentMoniker": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\FormGame.cs",
+              "RelativeDocumentMoniker": "FormGame.cs",
+              "ToolTip": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\FormGame.cs",
+              "RelativeToolTip": "FormGame.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:30:12.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormGame.cs [Design]",
+              "DocumentMoniker": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\FormGame.cs",
+              "RelativeDocumentMoniker": "FormGame.cs",
+              "ToolTip": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\FormGame.cs [Design]",
+              "RelativeToolTip": "FormGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:26:34.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FormMenu.cs",
+              "ToolTip": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\FormMenu.cs",
+              "RelativeToolTip": "FormMenu.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:03:55.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FormMenu.cs",
+              "ToolTip": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\20240605-01\\sudoku\\FormMenu.cs [Design]",
+              "RelativeToolTip": "FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:42:31.581Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

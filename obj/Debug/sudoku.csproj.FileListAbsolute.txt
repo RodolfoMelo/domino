@@ -1,0 +1,11 @@
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\bin\Debug\sudoku.exe.config
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\bin\Debug\sudoku.exe
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\bin\Debug\sudoku.pdb
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\obj\Debug\sudoku.FormGame.resources
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\obj\Debug\sudoku.FormMenu.resources
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\obj\Debug\sudoku.csproj.GenerateResource.cache
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\obj\Debug\sudoku.exe
+E:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\20240605-01\sudoku\obj\Debug\sudoku.pdb
