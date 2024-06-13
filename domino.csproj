@@ -12,6 +12,21 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -46,6 +61,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Domino.cs" />
+    <Compile Include="FormTutorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTutorial.Designer.cs">
+      <DependentUpon>FormTutorial.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormGame.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +82,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormTutorial.resx">
+      <DependentUpon>FormTutorial.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormGame.resx">
       <DependentUpon>FormGame.cs</DependentUpon>
     </EmbeddedResource>
@@ -68,17 +93,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -87,6 +113,222 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\0-0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\0-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\0-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\0-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\0-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\0-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\0-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\1-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\1-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\1-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\1-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\1-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\1-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\2-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\2-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\2-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\2-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\2-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\3-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\3-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\3-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\3-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\4-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\4-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\4-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\5-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\5-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\6-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\D-VIRADA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\B AJUDA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\B JOGAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\B MENU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\B SAIR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\B TUTO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\lOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\0-0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\0-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\0-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\0-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\0-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\0-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\0-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\1-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\1-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\1-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\1-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\1-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\1-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\2-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\2-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\2-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\2-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\2-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\3-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\3-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\3-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\3-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\4-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\4-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\4-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\5-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\5-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pecas\6-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sons\jogando.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sons\menu.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dominó\B PASSAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dominó\B ROBO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dominó\B VOLTAR.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

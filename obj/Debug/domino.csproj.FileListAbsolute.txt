@@ -1,11 +1,12 @@
+D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\bin\Debug\domino.exe.config
+D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\bin\Debug\domino.exe
+D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\bin\Debug\domino.pdb
 D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\obj\Debug\domino.csproj.AssemblyReference.cache
 D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\obj\Debug\domino.FormGame.resources
 D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\obj\Debug\domino.FormMenu.resources
 D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\obj\Debug\domino.Properties.Resources.resources
 D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\obj\Debug\domino.csproj.GenerateResource.cache
 D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\obj\Debug\domino.csproj.CoreCompileInputs.cache
-D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\bin\Debug\domino.exe.config
-D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\bin\Debug\domino.exe
-D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\bin\Debug\domino.pdb
 D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\obj\Debug\domino.exe
 D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\obj\Debug\domino.pdb
+D:\IFBA2024.01\Tecnólogo em Jogos Digitais\Introdução a programação para jogos\av3\domino\obj\Debug\domino.FormTutorial.resources

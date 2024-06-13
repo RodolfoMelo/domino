@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|domino.csproj|d:\\ifba2024.01\\tecn\u00F3logo em jogos digitais\\introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|domino.csproj|solutionrelative:formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|domino.csproj|d:\\ifba2024.01\\tecn\u00F3logo em jogos digitais\\introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|domino.csproj|solutionrelative:formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|domino.csproj|D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\formtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|domino.csproj|solutionrelative:formtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|domino.csproj|D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F180DC0F-5A62-4126-907A-BF6109A02FDF}|domino.csproj|solutionrelative:formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FormTutorial.cs [Design]",
+              "DocumentMoniker": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\FormTutorial.cs",
+              "RelativeDocumentMoniker": "FormTutorial.cs",
+              "ToolTip": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\FormTutorial.cs [Design]",
+              "RelativeToolTip": "FormTutorial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:32:34.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FormGame.cs",
               "DocumentMoniker": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\FormGame.cs",
               "RelativeDocumentMoniker": "FormGame.cs",
               "ToolTip": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\FormGame.cs",
               "RelativeToolTip": "FormGame.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAUwCUAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T11:05:54.992Z",
+              "WhenOpened": "2024-06-12T23:32:03.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FormGame.cs [Design]",
               "DocumentMoniker": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\FormGame.cs",
               "RelativeDocumentMoniker": "FormGame.cs",
               "ToolTip": "D:\\IFBA2024.01\\Tecn\u00F3logo em Jogos Digitais\\Introdu\u00E7\u00E3o a programa\u00E7\u00E3o para jogos\\av3\\domino\\FormGame.cs [Design]",
               "RelativeToolTip": "FormGame.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T11:05:52.873Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-12T23:26:27.746Z"
             }
           ]
         }
